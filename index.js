@@ -1,4 +1,3 @@
-import '../src/styles.css'
 const colors = [
   '#FFFFFF',
   '#2196F3',
